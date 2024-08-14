@@ -1,4 +1,4 @@
-apiUrl:"https://api.binance.com/api/v3/depth"
+apiUrl:":https://api.binance.com/api/v3/depth"
 
 response:.Q.hg apiUrl
 
